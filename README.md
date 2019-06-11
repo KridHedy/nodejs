@@ -1,3 +1,8 @@
+PLEASE OPEN VISUAL CODE OR WHATEVER EDITOR OR SHELL SCRIPT AND INSTALL THE DEPENDENCIES FIRST
+(NODES MODULES) inside the project folder
+
+npm i express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash express express-session
+
 
 This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
